@@ -31,7 +31,7 @@ Before using the Sepsis Prediction MLops framework, ensure you have the followin
     source venv/bin/activate
     ```
     ```
-    git clone https://github.com/pavit14/Early-Prediction-of-Sepsis.git
+    git clone https://github.com/jaynanduri/early-sepsis.git
     ```
 2) Install dependencies
     ```
